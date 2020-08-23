@@ -15,6 +15,4 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ducthangvu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ducthangvu/" height="30" width="30" /></a>
-<a href="https://dribbble.com/duc thang vu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="duc thang vu" height="30" width="30" /></a>
-<a href="https://www.behance.net/duc thang vu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="duc thang vu" height="30" width="30" /></a>
 </p>
