@@ -31,7 +31,11 @@
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthang-vu&layout=compact&hide=html" alt="ducthang-vu" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=ducthang-vu&show_icons=true" alt="ducthang-vu" /></p>
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthang-vu&layout=compact&hide=html" alt="ducthang-vu" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducthang-vu&show_icons=true" alt="ducthang-vu" />
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ducthangvu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ducthangvu/" height="30" width="30" /></a>
