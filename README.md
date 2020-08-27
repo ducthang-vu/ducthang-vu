@@ -32,9 +32,9 @@
 
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthang-vu&layout=compact&hide=html" alt="ducthang-vu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthang-vu&layout=compact&hide=html" alt="ducthang-vu" height="160" />
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducthang-vu&show_icons=true" alt="ducthang-vu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducthang-vu&show_icons=true" alt="ducthang-vu" height="160" />
 </p>
 
 <p align="center">
