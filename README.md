@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducthang-vu&label=Profile%20views&color=0e75b6&style=flat" alt="ducthang-vu" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning **React** and **Java****
+- 🌱 I’m currently learning **I’m currently learning **React** and **Java**
 
 - 🤝 I’m looking for help with [ngrx-crud-poc](https://github.com/ducthang-vu/ngrx-crud-poc)
 
