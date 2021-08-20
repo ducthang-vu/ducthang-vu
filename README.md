@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
-<h3 align="center">A passionate full stack web developer from Italy</h3>
+<h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ducthang-vu" alt="ducthang-vu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ducthang-vu&label=Profile%20views&color=0e75b6&style=flat" alt="ducthang-vu" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **I’m currently learning **React** and **Java****
 
-- 📫 How to reach me **vuducthang91@gmail.com**
+- 🤝 I’m looking for help with [ngrx-crud-poc](https://github.com/ducthang-vu/ngrx-crud-poc)
+
+- 💬 Ask me about **Angular**
 
 - ⚡ Fun fact **In my free time, I play chess and automate stuff with python.**
-
-- 🔭 Currently working on a [utility library](https://github.com/ducthang-vu/ngrx-crud-poc) for NgRx.
 
 &nbsp;
 &nbsp;
