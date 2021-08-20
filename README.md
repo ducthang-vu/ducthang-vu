@@ -11,7 +11,11 @@
 
 - ⚡ Fun fact **In my free time, I play chess and automate stuff with python.**
 
-. ⚡ I like coding games: [minesweeper](https://github.com/ducthang-vu/minesweeper), [baccarat](https://github.com/ducthang-vu/baccarat-punto-banco), [game of file](https://github.com/ducthang-vu/game_of_life), [tic-tac-tow with AI](https://github.com/ducthang-vu/tic-tac-tow-with-AI), [snake](https://github.com/ducthang-vu/snake---game), [memory](https://github.com/ducthang-vu/memory---game), [blackjack](https://github.com/ducthang-vu/blackjack-nextjs-app), [quiz](https://github.com/ducthang-vu/quizApp)
+- ⚡ I like coding games: [minesweeper](https://github.com/ducthang-vu/minesweeper), [baccarat](https://github.com/ducthang-vu/baccarat-punto-banco), [game of file](https://github.com/ducthang-vu/game_of_life), [tic-tac-tow with AI](https://github.com/ducthang-vu/tic-tac-tow-with-AI), [snake](https://github.com/ducthang-vu/snake---game), [memory](https://github.com/ducthang-vu/memory---game), [blackjack](https://github.com/ducthang-vu/blackjack-nextjs-app), [quiz](https://github.com/ducthang-vu/quizApp)
+
+- ⚡ I'm not really an artist, but still... "[circular dots](https://github.com/ducthang-vu/circular_dots)" and "[animated circles](https://github.com/ducthang-vu/animated_circles)"
+
+- ⚡ I also enjoy solving [coding challenges](https://github.com/ducthang-vu/Codewars)
 
 &nbsp;
 &nbsp;
