@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React** and **Java**
 
-- 🤝 I’m looking for help with [ngrx-crud-poc](https://github.com/ducthang-vu/ngrx-crud-poc)
-
 - 💬 Ask me about **Angular**
 
 - ⚡ Fun fact **In my free time, I play chess and automate stuff with python.**
