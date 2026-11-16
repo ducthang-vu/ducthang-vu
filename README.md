@@ -50,10 +50,3 @@
 </p>
 
 Also: Bulma, Chart.js, Jasmine, Karma, MariaDB.
-
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ducthang-vu&show_icons=true&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducthang-vu&locale=en&layout=compact" alt="Top languages" />
-</p>
